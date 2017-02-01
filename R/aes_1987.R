@@ -31,6 +31,10 @@
 #' number of children; partner's schooling, occupation, employment sector, supervision, union
 #' membership and political preference; religion and attendance at religious services.
 #'
+#' The original codebook can be found at \url{http://ada.edu.au/ADAData/codebooks/ADA.CODEBOOK.00445.pdf.zip}
+#'
+#' The original questionnaire can be found at \url{http://ada.edu.au/ADAData/questionnaires/ADA.QUESTIONNAIRE.00445.pdf.zip}
+#'
 #' @section Variables:
 #'
 #' \describe{
