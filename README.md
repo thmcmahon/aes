@@ -8,7 +8,7 @@ Help files for the dataset contain a data overview and the codebooks in R docume
 
 ## Installation and usage
 
-If I can be bothered I'll upload this to CRAN, but in the meantime you'll need to use `devtools` to install it. So install that first if you don't have it, then follow the following instructions:
+If I can be bothered I'll upload this to CRAN, but in the meantime you'll need to use `devtools` to install it. So install that first if you don't have it, then follow these instructions:
 
 Install it from this repo with:
 
