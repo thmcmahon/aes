@@ -1,8 +1,10 @@
 #' Australian Election Study 1987
 #'
-#' Total Sample: 3,061
-#' Valid responses: 1,825
-#' Effective response: 62.8\%
+#' \itemize{
+#'   \item Total Sample: 3,061
+#'   \item Valid responses: 1,825
+#'   \item Effective response: 62.8\%
+#' }
 #'
 #' @details
 #'
@@ -31,9 +33,12 @@
 #' number of children; partner's schooling, occupation, employment sector, supervision, union
 #' membership and political preference; religion and attendance at religious services.
 #'
-#' The original codebook can be found at \url{http://ada.edu.au/ADAData/codebooks/ADA.CODEBOOK.00445.pdf.zip}
+#' \strong{Useful links}
 #'
-#' The original questionnaire can be found at \url{http://ada.edu.au/ADAData/questionnaires/ADA.QUESTIONNAIRE.00445.pdf.zip}
+#' \itemize{
+#'   \item \href{http://ada.edu.au/ADAData/codebooks/ADA.CODEBOOK.00445.pdf.zip}{Original codebook}
+#'   \item \href{http://ada.edu.au/ADAData/questionnaires/ADA.QUESTIONNAIRE.00445.pdf.zip}{Original questionanaire}
+#' }
 #'
 #' @section Variables:
 #'

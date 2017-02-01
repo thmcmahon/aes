@@ -1,9 +1,9 @@
 #' Australian Election Study 2016
 #'
-#' \describe{
-#' \item{Total Sample: 12,497}
-#' \item{Valid responses: 2,818}
-#' \item{Effective response: 22.5\%}
+#' \itemize{
+#'   \item Total Sample: 12,497
+#'   \item Valid responses: 2,818
+#'   \item Effective response: 22.5\%
 #' }
 #'
 #' @details
@@ -44,6 +44,13 @@
 #' half the sample were chose in line with previous surveys, using the electoral register, while the
 #' other half were chosen using the geo-coded national address file (G-NAF). The data file is also
 #' supplemented with division level election results.
+#'
+#' \strong{Useful links:}
+#'
+#' \itemize{
+#'   \item \href{http://nesstar.ada.edu.au/webview/velocity?study=http://150.203.254.120:80/obj/fStudy/au.edu.anu.ada.ddi.01365&format=pdf&mode=transform&s&gs}{Original codebook}
+#'   \item \href{http://ada.edu.au/ADAData/questionnaires/ADA.QUESTIONNAIRE.01365a.pdf}{Original questionnaire}
+#' }
 #'
 #' @source \url{http://www.australianelectionstudy.org/voter_studies.html}
 #'

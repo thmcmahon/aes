@@ -12,9 +12,11 @@
 aes_1987
 }
 \description{
-Total Sample: 3,061
-Valid responses: 1,825
-Effective response: 62.8\%
+\itemize{
+  \item Total Sample: 3,061
+  \item Valid responses: 1,825
+  \item Effective response: 62.8\%
+}
 }
 \details{
 The study has two goals. The first is to continue the broad line of enquiry established by the
@@ -41,6 +43,13 @@ class; sex; age; length of current residence; country of birth of self and paren
 in Australia; father's occupation; parents' schooling and political preference; marital status;
 number of children; partner's schooling, occupation, employment sector, supervision, union
 membership and political preference; religion and attendance at religious services.
+
+\strong{Useful links}
+
+\itemize{
+  \item \href{http://ada.edu.au/ADAData/codebooks/ADA.CODEBOOK.00445.pdf.zip}{Original codebook}
+  \item \href{http://ada.edu.au/ADAData/questionnaires/ADA.QUESTIONNAIRE.00445.pdf.zip}{Original questionanaire}
+}
 }
 \section{Variables}{
 
@@ -280,5 +289,5 @@ membership and political preference; religion and attendance at religious servic
 }
 }
 }
-\keyword{datasets}
 
+\keyword{datasets}
