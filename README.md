@@ -8,6 +8,28 @@ The SAS files have been converted using the [Haven package](https://cran.r-proje
 
 Help files for the dataset contain a data overview and codebooks for the 1987, 2013 and 2016 files. I'll convert the other files if I get around to it. I've probably made mistakes in bringing the codebooks across to R documentation format, so feel free to send a pull request to fix typos etc.
 
+## Installation and usage
+
+If I can be bothered I'll upload this to CRAN, but in the meantime you'll need to use devtools to install it.
+
+Install it from this repo with:
+
+```{r}
+devtools::install_github("thmcmahon/aes")
+```
+
+Load the datasets with, for example the 2016 survey:
+
+```{r}
+data(aes_2016)
+```
+
+The codebooks for some of the datasets can be accessed with:
+
+```{r}
+?aes_2016
+```
+
 ## Disclaimer
 
 I've prepared these files to help make it easier to use. I'm not in anyway affiliated with the authors of these surveys.
