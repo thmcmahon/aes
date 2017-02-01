@@ -1,0 +1,17 @@
+Package: aes
+Type: Package
+Title: Responses to the Australian Election Study Voter Studies 1987-2016
+Version: 0.1.0
+Author: Thomas McMahon
+Maintainer: Thomas McMahon <thmcmahon@gmail.com>
+Description: The AES routinely collects data among a nationally representative
+    sample of voters. All of the AES studies are national, post-election self-
+    completion surveys with the sample drawn randomly from the electoral register.
+    Since 2010 the surveys have also included an online completion option. This
+    package contains the responses to these surveys converted to Rdata format with
+    the codebooks as inline documentation.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(wrap = FALSE)
+RoxygenNote: 5.0.1
