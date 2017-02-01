@@ -19,6 +19,7 @@ devtools::install_github("thmcmahon/aes")
 Load the datasets with, for example the 2016 survey:
 
 ```{r}
+library(aes)
 data(aes_2016)
 ```
 
