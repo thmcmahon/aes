@@ -22,7 +22,7 @@ Load the datasets with, for example the 2016 survey:
 data(aes_2016)
 ```
 
-The codebooks for some of the datasets can be accessed with:
+The codebooks for the datasets can be accessed with:
 
 ```{r}
 ?aes_2016
