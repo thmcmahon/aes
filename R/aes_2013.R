@@ -327,12 +327,11 @@
 #' \item{F16P4}{Quiz - Elections to Senate proportional}
 #' \item{F16P5}{Quiz - No-one stands unless pay deposit}
 #' \item{F16P6}{Quiz - Longest time between Fed elections 4 years}
+#' }
+#' }
 #'
 #' \subsection{Section G: Education and Work}{
 #' \describe{
-#' }
-#' }
-#'
 #' \item{G1age}{Age given (Numeric) (BASE: Age given)}
 #' \item{G2}{G2 - Years of tertiary study completed}
 #' \item{G3}{Highest qualification since leaving school}
